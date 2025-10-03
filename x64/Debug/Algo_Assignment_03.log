@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\2023 farewel pics\Noor  Folder\Algo_Assignment_03\Algo_Assignment_03\main.cpp(45,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\2023 farewel pics\Noor  Folder\Algo_Assignment_03\Algo_Assignment_03\main.cpp(46,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\2023 farewel pics\Noor  Folder\Algo_Assignment_03\Algo_Assignment_03\main.cpp(47,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Algo_Assignment_03.vcxproj -> D:\2023 farewel pics\Noor  Folder\Algo_Assignment_03\x64\Debug\Algo_Assignment_03.exe
